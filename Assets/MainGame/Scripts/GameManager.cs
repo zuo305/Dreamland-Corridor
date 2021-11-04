@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     }
 
     private void StartGame(object sender, EventArgs args)
-    {
+    {//
         GameStatusSwitcher(GameStatus.GamingStatus);
     }
 

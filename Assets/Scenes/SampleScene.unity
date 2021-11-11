@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd2bd7c58dc71a48bdd523572086ede, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.5
+  speed: 10
   flowchart: {fileID: 1310049785}
 --- !u!212 &251778349
 SpriteRenderer:
